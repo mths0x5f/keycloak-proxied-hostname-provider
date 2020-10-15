@@ -13,7 +13,7 @@ public class ProxiedHostnameProviderFactory implements HostnameProviderFactory {
 
     @Override
     public String getId() {
-        return "default";
+        return "proxied";
     }
 
 }
